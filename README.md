@@ -16,3 +16,6 @@ bikeshare.zip
 ### Credits
 Udacity Core Curriculum- Introduction to Python 
 Udacity Mentor Help- Various questions and responses under Explore US bikeshare data
+
+### Notes
+As the project and contents were done via a paid Udacity course please check with Udacity administrators before using the data files
